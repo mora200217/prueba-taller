@@ -1,1 +1,2 @@
-restructurado, o lo que sea :v
+for i in range(10):
+    print("*"*i)
